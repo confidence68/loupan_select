@@ -1,0 +1,129 @@
+{
+"sLpName":"上海地产上河湾",
+        "sAddress":"千阳南路88弄",
+        "aLpNumber":[
+        {
+        "iNumber":5, //楼栋号
+                "iHeight":11, //层高, 或者是ALouceng.length, 两者相等
+                "sThpb":"1梯2户", //梯户配比
+                "iTotalHs":22, //户数
+                "sOpenTime":"2015-01-21", //开盘时间
+                "sEnterTime":"2016-08-08", //入住时间
+                "sUnit":"含1个单元", //单元
+                "ALouceng":[ //楼层
+                {
+                "sChs":"2户", //层户数
+                        "Ahxtype":[
+                        {
+                        "sType":"三居室",
+                                "sArea":"138m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"700万"
+                        },
+                        {
+                        "sType":"四居室",
+                                "sArea":"188m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"1000万"
+                        }
+
+                        ]
+
+                },
+                {
+                "sChs":"2户", //层户数
+                        "Ahxtype":[
+                        {
+                        "sType":"三居室",
+                                "sArea":"138m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"700万"
+                        },
+                        {
+                        "sType":"四居室",
+                                "sArea":"188m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"1000万"
+                        }
+
+                        ]
+
+                }
+                {
+                "sChs":"2户", //层户数
+                        "Ahxtype":[
+                        {
+                        "sType":"三居室",
+                                "sArea":"138m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"700万"
+                        },
+                        {
+                        "sType":"四居室",
+                                "sArea":"188m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"1000万"
+                        }
+
+                        ]
+
+                }
+                {
+                "sChs":"2户", //层户数
+                        "Ahxtype":[
+                        {
+                        "sType":"三居室",
+                                "sArea":"138m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"700万"
+                        },
+                        {
+                        "sType":"四居室",
+                                "sArea":"188m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"1000万"
+                        }
+
+                        ]
+
+                }
+                {
+                "sChs":"2户", //层户数
+                        "Ahxtype":[
+                        {
+                        "sType":"三居室",
+                                "sArea":"138m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"700万"
+                        },
+                        {
+                        "sType":"四居室",
+                                "sArea":"188m",
+                                "sPrice":"46000元/m",
+                                "sLink":"",
+                                "Tprice":"1000万"
+                        }
+
+                        ]
+
+                }
+
+
+                ]
+
+
+        }
+
+
+
+        ]
+        }

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>图标标注demo-haorooms前端资料库</title>
+        <meta name="keywords" content="jquery,completer" />
+        <meta name="description" content="haorooms前端资源库总结整理，jquery简单的自动补齐插件，转载请注明！" />
+        <style>
+            body{width:100%;height:100%;padding:0;margin:0;}
+            .mainmap{margin: 200px auto;width:386px;height:290px;position: relative;}
+            .house_points a{text-decoration: none;}
+            .house_points a.h_point {
+                background: url(images/cont_icon.png) no-repeat right -32px;
+                display: block;
+                width: 25px;
+                height: 35px;
+                padding-top: 6px;
+                color: #333;
+                text-align: center;
+            }
+            .house_points a.h_point span {
+                display: block;
+                color: #555;
+                width: 18px;
+                height: 15px;
+                line-height: 13px;
+                margin: 0 auto;
+                text-align: center;
+                overflow: hidden;
+                font-size:12px;
+            }
+            #LpId{cursor: move;}
+            #LpId .Lcimg:hover .hideimg{
+                opacity: 0.9;
+                filter:alpha(opacity=90);
+                display:inline;
+
+            }
+            #LpId .Lcimg:hover .hideimg:hover{
+                opacity: .9;
+                filter:alpha(opacity=90);
+                display:inline;
+
+            }
+            #LpId .Lcinfo{position: absolute;z-index: 1000;width:413px;height:400px;display: none; background: url(images/dialog.png) no-repeat 0 0;}
+
+        </style>
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/jquery-creat3Dloupan.js"></script>
+    </head>
+    <body>
+
+        <div class="mainmap">
+            <img src="images/387x290.jpg" border="0" />
+            <div class="house_points" data-Lc="12" style="position: absolute; display: inline-block; width: auto; left: 137.35px; top: 77.45px;">
+                <a href="javascript:void(0)" class="h_point"><span>11</span></a>
+            </div>
+            <div class="house_points" data-Lc="8" style="position: absolute; display: inline-block; width: auto; left: 108.8px; top: 63.9px;">
+                <a href="javascript:void(0)" class="h_point"><span>5</span></a>
+            </div>
+
+        </div>
+
+        <script>
+            $(function () {
+                $(".house_points").on("click", function () {
+                    var lc = $(this).attr("data-Lc");
+
+                    $(this).Creat3Dloupan({'Height': lc, 'topfloor': 'images/lcThems/topfloor.png', 'fontimgheight': 31, 'imgwidth': 169, 'imgheight': 46});
+                })
+            })
+        </script>
+
+    </body>
+</html>

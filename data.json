@@ -1,0 +1,521 @@
+{
+	"sLpName":"上海地产上河湾",
+	"sAddress":"千阳南路88弄",
+	"aLpNumber":[
+	    {
+	    	"iNumber":"5",
+	    	"iHeight":"11",
+	    	"sThpb":"1梯2户",
+	    	"iTotalHs":"22",
+	    	"sOpenTime":"2015-01-21",
+	    	"sEnterTime":"2016-08-08",
+	    	"sUnit":"含1个单元",
+	    	"ALouceng":[ 
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	}
+
+	    	]
+
+
+	    },
+	    	 {
+	    	"iNumber":31,
+	    	"iHeight":11,
+	    	"sThpb":"1梯2户",
+	    	"iTotalHs":22,
+	    	"sOpenTime":"2015-01-21",
+	    	"sEnterTime":"2016-08-08",
+	    	"sUnit":"含1个单元",
+	    	"ALouceng":[ 
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	},
+		    	{
+		    		"sChs":"2户",
+		    		"Ahxtype":[
+		    		    {
+		    		    	"sType":"三居室",
+		    		    	"sArea":"138m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"700万"
+		    		    },
+
+		    		    {
+		    		    	"sType":"四居室",
+		    		    	"sArea":"188m",
+		    		    	"sPrice":"46000元/m",
+		    		    	"sLink":"",
+		    		    	"Tprice":"1000万"
+		    		    }
+
+		    		 ]
+
+		    	}
+
+	    	]
+
+
+	    }
+
+
+
+	]
+}
